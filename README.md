@@ -1,4 +1,4 @@
-### Hi there 👋 I love Go
+###  I love Golang
 
 <!--
 **oleg-top/oleg-top** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
